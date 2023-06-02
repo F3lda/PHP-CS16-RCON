@@ -105,7 +105,7 @@ class CS16rcon {
 
 
 	/*
-	* recive data from the server
+	* receive data from the server
 	*
 	* @return	string
 	*/
