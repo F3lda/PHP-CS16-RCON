@@ -44,9 +44,9 @@ class CS16rcon {
 	* close the connection to the server
 	*/
 	public function close() {
-        if ($this->socket) {
+        	if ($this->socket) {
 			fclose($this->socket);
-        }
+        	}
 	}
 	
 	
